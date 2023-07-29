@@ -5,7 +5,7 @@ This collection contains detailed notes in Hebrew on subjects such as Math (Calc
 and Advanced Statistical Methods(GLM, Computational Methods in Nonlinear Optimization, Information theory, Nonparametric statistics)</br>
 Foundations of Computer Science (Data Structures, Algorithms, Complexity), as well as advanced Data Science (Machine Learning,).</br>
 My goal is to make data science and statistics more accessible to Hebrew speakers.</br>
-All my notes are from my Bsc in Mathmateics&Stastics and from my MSc in Stastics&Data-Science.</br> 
+All my notes are from my Bsc in Mathematics & Statistics and from my MSc in Statistics & Data-Science.</br> 
 Each note is available as a PDF file.</br>
 Those files are filed into 3 fields for easy navigation, and their names contain the year they were written in.</br>
 ### Contact
