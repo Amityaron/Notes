@@ -3,7 +3,7 @@
 Detailed notes of various Computer Science & Data Science courses - mostly courses from HebrewU but also a variety of other courses I studied independently.</br>
 The vast majority of these notes are in Hebrew - for HebrewU courses it's because that's the language the courses are taught in.</br>
 My goal is to make data science and statistics more accessible to Hebrew speakers.</br>
-All my notes are from my Bsc in mathmateics&stastics and from my MSc in Stastics&Data-Science.</br> 
+All my notes are from my Bsc in Mathmateics&Stastics and from my MSc in Stastics&Data-Science.</br> 
 Each note is available as a PDF file.</br>
 Those files are filed into 3 fields for easy navigation, and their names contain the year they were written in.</br>
 ### Contact
