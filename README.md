@@ -8,8 +8,8 @@ Each note is available as a PDF file.</br>
 Those files are filed into 3 fields for easy navigation, and their names contain the year they were written in.</br>
 ### Contact
 Feel free to contact me to share mistakes you found in my notes, or for any other reason.</br>
-You can email me at [amit.yaron2@mail.huji.ac.il](amit.yaron2@mail.huji.ac.il) or DM me on Linkedin</br>
-[![LinkedIn](https://github.com/Amityaron/Amityaron/blob/main/linkdin.png)](https://www.linkedin.com/in/amit-yaron-7934641b5/) <br />
+You can email me at [amit.yaron2@mail.huji.ac.il](amit.yaron2@mail.huji.ac.il) or DM me on Linkedin
+[![LinkedIn](https://github.com/Amityaron/Amityaron/blob/main/linkdin.png)](https://www.linkedin.com/in/amit-yaron-7934641b5/)
 ### Support my work
 If my notes helped you, you can buy me a ☕ if you'd like.
  [![Ko-fi](https://github.com/Amityaron/Amityaron/blob/main/ko%20fi.png)](https://ko-fi.com/amityaron) <br />
