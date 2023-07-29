@@ -1,7 +1,9 @@
 # Notes
 ### What's in this repository?
-Detailed notes of various Computer Science & Data Science courses - mostly courses from HebrewU but also a variety of other courses I studied independently.</br>
-The vast majority of these notes are in Hebrew - for HebrewU courses it's because that's the language the courses are taught in.</br>
+ have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses I studied independently, and published them as a part of my goal to make Data Science & Quantitative trade topics more accessible to Hebrew speakers.</br>
+This collection contains detailed notes in Hebrew on subjects such as Math (Calculus, Linear Algebra, Probability, Discrete Math)</br>
+and Advanced Statistical Methods(GLM, Computational Methods in Nonlinear Optimization, Information theory, Nonparametric statistics)</br>
+Foundations of Computer Science (Data Structures, Algorithms, Complexity), as well as advanced Data Science (Machine Learning,).</br>
 My goal is to make data science and statistics more accessible to Hebrew speakers.</br>
 All my notes are from my Bsc in Mathmateics&Stastics and from my MSc in Stastics&Data-Science.</br> 
 Each note is available as a PDF file.</br>
